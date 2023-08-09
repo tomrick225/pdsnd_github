@@ -47,7 +47,7 @@ def get_filters():
         if given_city in CITY_DATA:
             city = given_city.lower()
         else:
-            print("Seems like no valid input. Please try again. Mind the spelling.")
+            print("Seems like that is no valid input. Please try again. Mind the spelling.")
     print("Your city of choice: ",city)
 
     # find out, if the user wants to apply filter(s)
