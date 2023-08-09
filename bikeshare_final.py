@@ -1,6 +1,6 @@
 import time
 import pandas as pd
-# import numpy as np
+
 
 # Sleep seconds to present the output by pieces
 sleep_sec = 2.0         
