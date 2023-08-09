@@ -42,7 +42,8 @@ The **output** fits to your input and prompts information regarding...
     4. User info
 
 ## Known Bugs
-
+There are no known bugs.
+Feel encouraged to find one but please do not eat it.
 
 ## Acknowledgements and credits
 Original repository https://github.com/udacity/pdsnd_github
