@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # Sleep seconds to present the output by pieces
-sleep_sec = 2.0         
+sleep_sec = 0.5         
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
