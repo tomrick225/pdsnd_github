@@ -48,7 +48,7 @@ Feel encouraged to find one but please do not eat it.
 ## Acknowledgements and credits
 Original repository https://github.com/udacity/pdsnd_github
 
-
+*Thanks to Udacity for helping me to start this journey.*
 
 ## Copyright
 MIT License
